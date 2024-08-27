@@ -15,6 +15,7 @@ public enum EnableEnum {
 
     UNALBE(0),
     ENABLE(1),
+    ENABLE(2),
     ;
 
     private Integer code;
